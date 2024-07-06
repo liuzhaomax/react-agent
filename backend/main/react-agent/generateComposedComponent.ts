@@ -84,7 +84,7 @@ Instructions:
 Import component dependencies from '@react-agent/shadcn-ui' library. e.g import { ComponentNameOne, ComponentNameTwo } from '@react-agent/shadcn-ui';
 Generate the component ${componentName}, It is part of the user story, use the user story and the skeleton as a reference.
 ---
-Compoponent Composition:
+Component Composition:
 ${JSON.stringify(componentConfiguration)}
 ---
 Here is a starter, continue from here:

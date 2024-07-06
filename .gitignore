@@ -4,3 +4,5 @@ node_modules
 test.json
 test.js
 test.ts
+
+.idea
